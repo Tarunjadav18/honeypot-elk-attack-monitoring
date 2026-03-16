@@ -35,3 +35,21 @@ The system captures attacker interactions, forwards logs to Elasticsearch, and v
 ---
 
 ## Project Structure
+honeypot-elk-attack-monitoring
+│
+├── docs/
+│   └── project_documentation.md
+│
+├── README.md
+├── requirements.txt
+├── setup_instructions.md
+├── Honeypot attack flow architecture diagram.png
+
+---
+
+## Future Improvements
+
+- Automated alerting system
+- Machine learning-based attack detection
+- Distributed honeypot deployment
+- Advanced threat intelligence analysis
